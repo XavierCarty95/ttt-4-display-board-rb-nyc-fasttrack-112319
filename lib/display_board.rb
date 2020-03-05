@@ -2,6 +2,7 @@
 # out the current state.
 board = Array.new(9,"")
 
+board[0] = "X"
 
 def display_board(board)
 
