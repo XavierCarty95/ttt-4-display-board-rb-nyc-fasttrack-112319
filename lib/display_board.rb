@@ -8,6 +8,9 @@ board[2] = "X"
 board[3] = "X"
 board[4] = "0"
 board[5] = "X"
+board[6] = "0"
+board[7] = "X"
+board[8] = "0"
 
 def display_board(board)
 
