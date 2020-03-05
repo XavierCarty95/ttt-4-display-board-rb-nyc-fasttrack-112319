@@ -6,6 +6,8 @@ board[0] = "X"
 board[1] = "0"
 board[2] = "X"
 board[3] = "X"
+board[4] = "0"
+board[5] = "X"
 
 def display_board(board)
 
