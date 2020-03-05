@@ -5,6 +5,7 @@ board = Array.new(9,"")
 board[0] = "X"
 board[1] = "0"
 
+
 def display_board(board)
 
 puts" #{board[0]} | #{board[1]} | #{board[2]} "
